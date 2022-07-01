@@ -21,4 +21,5 @@ Here are some ideas to get you started:
 
 
 
-<a href="https://blog.naver.com/hatomom"><img src="https://img.shields.io/badge/red?style=flat-square&logo=Naver&logoColor=#03C75A&link=https://blog.naver.com/hatomom"/></a>&nbsp
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=sanynote)](https://solved.ac/sanynote)<br/>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsanynote&count_bg=%23CCAAFF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
