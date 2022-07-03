@@ -2,7 +2,7 @@
 
 ### Hi there It's Sunny :sunny:
 
-[this is my portfolio :-0](http://sanynote.github.io/Portfolio/portfolio/aboutMe.html)
+[portfolio page](http://sanynote.github.io/Portfolio/portfolio/aboutMe.html)
 
 
 <p>
