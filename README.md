@@ -4,6 +4,12 @@
 
 [portfolio](http://sanynote.github.io/Portfolio/portfolio/aboutMe.html)
 
+<p>
+  안녕하세요 신입 프론트엔드 개발자 김선희입니다.
+  준비된 포트폴리오는 3개이고, 
+  추가로 리액트 프로젝트와 문제해결을 모은 포트폴리오를 준비 중에 있습니다.
+  감사합니다!
+</p>
 
 
 
