@@ -2,8 +2,6 @@
 
 ### Hi there It's Sunny :sunny:
 
-[포트폴리오](http://sanynote.github.io/Portfolio/portfolio/aboutMe.html)
-
 <p>
   안녕하세요 신입 프론트엔드 개발자 김선희입니다.<br/><br/>
   12월부터 2022년 6월까지 
