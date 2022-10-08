@@ -17,10 +17,6 @@
 
 
 
-<a href="url" > <h3>:gem: Me </h3> </a>
-<a href="https://blog.naver.com/hatomom"><img src="https://img.shields.io/badge/Naver-00A98F?style=flat-square&logo=&logoColor=white&link=https://blog.naver.com/hatomom"/></a>
-<a href="https://www.instagram.com/rlatksdl_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=&logoColor=white&link=www.instagram.com/rlatksdl_"/></a>
-
 <a href="url" > <h3>:hammer: Tools </h3> </a>
 
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
